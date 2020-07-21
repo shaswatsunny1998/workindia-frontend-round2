@@ -1,0 +1,26 @@
+.calls-list {
+	margin-top: 56px !important;
+}
+
+.call-item {
+	border-top: 1px solid rgba(151, 151, 151, 0.1) !important;
+}
+
+.secondary-info {
+	display: flex !important;
+	align-items: center !important;
+}
+
+.call-profile {
+	max-width: 40px !important;
+}
+
+.incoming-icon {
+	color: #25D366 !important;
+	width: 20px !important;
+	margin-right: 8px;
+}
+
+.call-icon {
+	color: #128C7E !important;
+}

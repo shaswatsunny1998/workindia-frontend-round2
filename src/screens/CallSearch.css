@@ -1,0 +1,14 @@
+.call-search-screen {
+	margin-top: 56px !important;
+}
+.call-search-head {
+	background-color: rgb(230, 230, 230) !important;
+	padding: 5px 10px 8px !important;
+}
+
+.call-title {
+	font-size: 0.8rem !important;
+	color: rgba(63, 63, 63, 0.719);
+	font-weight: bold !important;
+	z-index: -1;
+}

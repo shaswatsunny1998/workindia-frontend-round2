@@ -1,0 +1,7 @@
+.search-bar {
+	background-color: white !important;
+}
+
+.search-input {
+	flex-grow: 1 !important;
+}

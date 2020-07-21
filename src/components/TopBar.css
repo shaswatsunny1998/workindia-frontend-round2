@@ -1,0 +1,15 @@
+.top-bar-root {
+	flex-grow: 1 !important;
+}
+
+.top-bar-root h6 {
+	flex-grow: 1 !important;
+}
+
+.app-bar {
+	background-color: #128C7E !important;
+}
+
+.top-title {
+	font-weight: 700 !important;
+}
